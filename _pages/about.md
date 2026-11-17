@@ -34,7 +34,7 @@ I am a first-year PhD candidate in the **HKUST NLP Group** at the **Hong Kong Un
 
 ## Publications
 
-Publications are also listed on the [Publications](/publications/) page and on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+Publications are also listed on the [Publications]({{ "/publications/" | relative_url }}) page and on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ### 2025
 
