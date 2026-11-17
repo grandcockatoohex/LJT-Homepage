@@ -101,8 +101,6 @@ staticman:
       type: "date"
       options:
         format: "iso8601"
-        timestamp-seconds: "timestamp-seconds"
-        timestamp-milliseconds: "timestamp-milliseconds"
 atom_feed:
   hide: false
   path:
