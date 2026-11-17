@@ -40,7 +40,7 @@ Publications are also listed on the [Publications](/publications/) page and on m
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
    - **Junteng Liu** (first author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv, 2025.*
-   - Code on GitHub: [MiniMax-AI/SynLogic](https://github.com/MiniMax-AI/SynLogic)
+   - [Code on GitHub](https://github.com/MiniMax-AI/SynLogic)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**
    - **Junteng Liu** (first author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv, 2025.*
